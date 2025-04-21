@@ -1,0 +1,1 @@
+sudo add-apt-repository -r deb http://archive.ubuntu.com/ubuntu jammy-security universe
