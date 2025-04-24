@@ -1,0 +1,1 @@
+grep '^[0-9]' ~/HOMEWORK/section-5/docs/copyright > ~/HOMEWORK/section-5/strings
